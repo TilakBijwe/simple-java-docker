@@ -1,4 +1,4 @@
-# Simple Java Docker Project
+# Simple demo  Java Docker Project For practice 
 
 ## Overview
 This project demonstrates how to containerize a Java application using Docker.
